@@ -1,2 +1,2 @@
-# lzw
-Implementacija kompresije i dekompresije uz pomoc lzw algoritma
+# Lempel–Ziv–Welch algorithm
+C++ implementation of compression and decompression using the LZW algorithm
